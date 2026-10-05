@@ -30,12 +30,12 @@ current_era: Still debugging
 
 Hey! I'm **Dewisma**, a developer interested in building web applications, backend systems, and software solutions.
 
-I started with simple CRUD applications and gradually explored backend development, database management, REST APIs, and cross-platform applications.
+I started with simple CRUD applications and gradually explored backend development and database management.
 
 I enjoy understanding how things work behind the scenes, designing database structures, and turning requirements into functional systems.
 
-* Building practical applications and systems.
-* Exploring backend architecture and REST API development.
+* Building practical websites and systems.
+* Exploring backend architecture and development.
 * Learning new technologies through hands-on projects.
 * Occasionally wondering why the code worked yesterday.
 
@@ -54,7 +54,7 @@ Technologies and tools I've worked with or am currently exploring.
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,vite,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap" />
 </p>
 
 ### Tools & Environment
@@ -70,44 +70,6 @@ Technologies and tools I've worked with or am currently exploring.
 ## `03` — Current Expedition
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=26351F&height=3" width="100%" />
-
-### ⚒️ NEX-TIX
-
-**A Web & Mobile Ticketing Management System**
-
-</div>
-
-Currently working on a ticketing system designed to manage online and offline ticket sales, transactions, and visitor validation.
-
-**Core features:**
-
-* 🎫 Online and offline ticket sales.
-* 📱 QR Code generation and validation.
-* 👥 Guide and group ticket management.
-* 📊 Transaction and visitor reporting.
-* 🔐 Role-based access control.
-* 📲 Mobile ticket validator.
-
-**Technology direction:**
-
-| Component          | Technology     |
-| ------------------ | -------------- |
-| Web Application    | CodeIgniter 4  |
-| REST API           | CodeIgniter 4  |
-| Mobile Application | Flutter & Dart |
-| Database           | MySQL          |
-
-*One system. Three applications. One source of truth.*
-
-## `04` — Selected Works
-
-A collection of projects from my development journey.
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### ✂️ Barbershop
 
@@ -154,7 +116,7 @@ A web-based project exploring PHP application development and data management.
 
 **Under Development**
 
-More experiments, learning projects, and applications are being developed.
+More experiments, learning projects, and Websites are being developed.
 
 *The journey is still ongoing.*
 
@@ -175,19 +137,13 @@ More experiments, learning projects, and applications are being developed.
              │
           LARAVEL
              │
-        REST API
-             │
        CODEIGNITER 4
-             │
-       REACT / VITE
-             │
-       FLUTTER / DART
              │
              ▼
       BUILDING SYSTEMS
 ```
 
-**From writing simple scripts to building complete applications.**
+**From writing simple COde to building complete Websites.**
 
 Still learning. Still experimenting. Still building.
 
