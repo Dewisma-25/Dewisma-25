@@ -12,7 +12,7 @@
 *Somewhere between ancient promises and modern commits.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dewisma--25-26351F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Dewisma-25)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dewisma-25\&style=flat-square\&color=829F52\&label=PROFILE+VISITORS)](https://github.com/Dewisma-25)
+[![Profile Views(https://komarev.com/ghpvc/?username=Dewisma-25\&style=flat-square\&color=829F52\&label=PROFILE+VISITORS)](https://github.com/Dewisma-25)
 
 </div>
 
