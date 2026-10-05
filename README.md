@@ -12,7 +12,6 @@
 *Somewhere between ancient promises and modern commits.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dewisma--25-26351F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Dewisma-25)
-[![Profile Views](https://github.com/Dewisma-25)
 
 </div>
 
