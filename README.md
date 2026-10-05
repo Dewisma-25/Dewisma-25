@@ -70,7 +70,7 @@ Technologies and tools I've worked with or am currently exploring.
 
 <div align="center">
 
-### ✂️ Barbershop
+### Barbershop
 
 **Laravel 12**
 
@@ -83,7 +83,7 @@ A barbershop management and booking application featuring customer bookings, ser
 </td>
 <td width="50%" valign="top">
 
-### 📖 Buku-Tamu
+### Buku-Tamu
 
 **Laravel 12**
 
