@@ -48,7 +48,7 @@ Technologies and tools I've worked with or am currently exploring.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,dart,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql" />
 </p>
 
 ### Frameworks & Libraries
@@ -65,7 +65,7 @@ Technologies and tools I've worked with or am currently exploring.
 
 ### Currently Exploring
 
-`CodeIgniter 4` · `Flutter` · `REST API` · `System Design`
+`CodeIgniter 4` · `System Design`
 
 ## `03` — Current Expedition
 
@@ -99,7 +99,7 @@ A simple guestbook web application built to explore fundamental CRUD operations 
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ SIPENA
+### SIPENA
 
 **PHP**
 
@@ -112,7 +112,7 @@ A web-based project exploring PHP application development and data management.
 </td>
 <td width="50%" valign="top">
 
-### 🚧 More Projects
+### More Projects
 
 **Under Development**
 
